@@ -1,9 +1,8 @@
-# Namacha411's Portfolio
-
 ## Profile
 
 - なまちゃ
-- 2002/04/11生まれ
+- 2002/04/11 生まれ
+- 男
 
 ## Links
 
