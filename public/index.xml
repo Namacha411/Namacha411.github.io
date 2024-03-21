@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Tanaka Hideyuki</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Tanaka Hideyuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 21 Mar 2024 16:55:16 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yumesute Rate Simulator</title>
+      <link>http://localhost:1313/products/yumesute-rate-simulator/</link>
+      <pubDate>Thu, 21 Mar 2024 16:55:16 +0900</pubDate>
+      <guid>http://localhost:1313/products/yumesute-rate-simulator/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: ゲームワールドダイスター 夢のステラリウムのレートのシミュレーションを行えます 使用技術: Flutter ソースコード: GitHub Webページ&#xD;見出しへのリンク&#xD;夢色キャストレートシミュレータ</description>
+    </item>
+    <item>
+      <title>clipTools Windowsクリップボードツール</title>
+      <link>http://localhost:1313/products/cliptools/</link>
+      <pubDate>Thu, 21 Mar 2024 16:51:00 +0900</pubDate>
+      <guid>http://localhost:1313/products/cliptools/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: Windowsのクリップボードを便利に使うためのツール 使用技術: F# ソースコード: GitHub 機能&#xD;見出しへのリンク&#xD;カウンター: クリップボード内の文字数をカウントして通知 saveImage: クリップボードの画像をPNG形式で保存（デフォルトはマイピクチャ） saveText: クリップボードのテキストを保存（デフォルトはマイドキュメント） ダウンロード&#xD;見出しへのリンク&#xD;GitHub releases page&#xA;備考&#xD;見出しへのリンク&#xD;ショートカットキーを割り当てて使用すると便利です</description>
+    </item>
+    <item>
+      <title>日本語を口パクの顔文字に変換</title>
+      <link>http://localhost:1313/products/lipemoticon/</link>
+      <pubDate>Thu, 21 Mar 2024 16:42:24 +0900</pubDate>
+      <guid>http://localhost:1313/products/lipemoticon/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: 日本語を顔文字に変換 使用技術: Flutter ソースコード: GitHub Webページ&#xD;見出しへのリンク&#xD;日本語を口パクの顔文字に変換するWebアプリ</description>
+    </item>
+    <item>
+      <title>VSCodeスニペットジェネレータ</title>
+      <link>http://localhost:1313/products/snippetgenetrator/</link>
+      <pubDate>Thu, 21 Mar 2024 16:34:01 +0900</pubDate>
+      <guid>http://localhost:1313/products/snippetgenetrator/</guid>
+      <description>&#xD;概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: 開発者がより迅速にコーディングできるように、カスタマイズ可能なスニペットを簡単に生成するツールの提供 使用技術: Rust ソースコード: GitHub </description>
+    </item>
+    <item>
+      <title>Gitサブコマンドを使った便利コマンド拡張</title>
+      <link>http://localhost:1313/products/gitext/</link>
+      <pubDate>Thu, 21 Mar 2024 16:06:58 +0900</pubDate>
+      <guid>http://localhost:1313/products/gitext/</guid>
+      <description>&#xD;概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: 主にファジーファインダーを使って見やすく便利にする拡張 使用技術: Go, cobra, go-fuzzyfinder ソースコード: GitHub インストール&#xD;見出しへのリンク&#xD;go install github.com/Namacha411/git-ext@latest </description>
+    </item>
+    <item>
+      <title>Instagramのcaption生成</title>
+      <link>http://localhost:1313/products/instagram_caption_generator/</link>
+      <pubDate>Thu, 21 Mar 2024 15:56:00 +0900</pubDate>
+      <guid>http://localhost:1313/products/instagram_caption_generator/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: FlutterとGeminiの連携を便利にするアップデート、ライブラリの発表から試しに作ってみました 使用技術: Flutter, google_generative_ai ソースコード: GitHub Webページ&#xD;見出しへのリンク&#xD;Instagramのcaption生成するwebアプリ</description>
+    </item>
+    <item>
+      <title>検索除け文章に変換</title>
+      <link>http://localhost:1313/products/stelthscan/</link>
+      <pubDate>Thu, 21 Mar 2024 15:50:11 +0900</pubDate>
+      <guid>http://localhost:1313/products/stelthscan/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: ゼロ幅スペースを使って検索除けを行う 使用技術: Svelte ソースコード: GitHub webページ&#xD;見出しへのリンク&#xD;検索除け文章変換Webアプリ</description>
+    </item>
+    <item>
+      <title>Octcatのスクリーンセーバー</title>
+      <link>http://localhost:1313/products/octserver/</link>
+      <pubDate>Thu, 21 Mar 2024 15:42:24 +0900</pubDate>
+      <guid>http://localhost:1313/products/octserver/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: octodexを見つけ、バリエーションが豊富かつ可愛かったのでスクリーンセーバーにしてみようと思った 使用技術: C#, Windows.Forms ソースコード: GitHub プロジェクトのスクリーンショット&#xD;見出しへのリンク&#xD;GitHubに載ってます</description>
+    </item>
+    <item>
+      <title>タスクバー用のアナログ時計アプリ</title>
+      <link>http://localhost:1313/products/analogclock/</link>
+      <pubDate>Thu, 21 Mar 2024 15:18:43 +0900</pubDate>
+      <guid>http://localhost:1313/products/analogclock/</guid>
+      <description>概要&#xD;見出しへのリンク&#xD;windowsのタスクバーにアナログ時計を表示するアプリを作りました ソースコード: GitHub 使用技術: C#, Windows.Froms ダウンロード&#xD;見出しへのリンク&#xD;GitHub Release Page</description>
+    </item>
+  </channel>
+</rss>
