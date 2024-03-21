@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "Tanaka Hideyuki"
+baseurl = "https://namacha411.github.io/"
+title = "namacha"
 theme = "hugo-coder"
 languagecode = "ja"
 defaultcontentlanguage = "ja"
@@ -23,7 +23,7 @@ style = "github-dark"
   # favicon_32 = "/img/favicon-32x32.png"
   # favicon_16 = "/img/favicon-16x16.png"
 
-  # since = 2019
+  since = 2024
 
   enableTwemoji = true
 

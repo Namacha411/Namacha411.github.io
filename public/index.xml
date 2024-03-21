@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Tanaka Hideyuki</title>
+    <title>Welcome on namacha</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome on Tanaka Hideyuki</description>
+    <description>Recent content in Welcome on namacha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 21 Mar 2024 16:55:16 +0900</lastBuildDate>
@@ -16,7 +16,7 @@
       <description>概要&#xD;見出しへのリンク&#xD;プロジェクトの目的: ゲームワールドダイスター 夢のステラリウムのレートのシミュレーションを行えます 使用技術: Flutter ソースコード: GitHub Webページ&#xD;見出しへのリンク&#xD;夢色キャストレートシミュレータ</description>
     </item>
     <item>
-      <title>clipTools Windowsクリップボードツール</title>
+      <title>Windowsクリップボードツール</title>
       <link>http://localhost:1313/products/cliptools/</link>
       <pubDate>Thu, 21 Mar 2024 16:51:00 +0900</pubDate>
       <guid>http://localhost:1313/products/cliptools/</guid>
